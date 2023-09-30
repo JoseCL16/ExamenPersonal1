@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\EP1\EP1\EP1\obj\Debug\EP1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EP1\EP1\EP1\obj\Debug\EP1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EP1\EP1\EP1\bin\Debug\EP1.exe.config
+C:\Users\USER\Desktop\EP1\EP1\EP1\bin\Debug\EP1.exe
+C:\Users\USER\Desktop\EP1\EP1\EP1\bin\Debug\EP1.pdb
+C:\Users\USER\Desktop\EP1\EP1\EP1\obj\Debug\EP1.exe
+C:\Users\USER\Desktop\EP1\EP1\EP1\obj\Debug\EP1.pdb
